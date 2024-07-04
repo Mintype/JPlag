@@ -2,8 +2,6 @@ package de.jplag.golang;
 
 import org.kohsuke.MetaInfServices;
 
-import de.jplag.antlr.AbstractAntlrLanguage;
-
 @MetaInfServices(de.jplag.Language.class)
 
 public class GoLanguage implements de.jplag.Language {
